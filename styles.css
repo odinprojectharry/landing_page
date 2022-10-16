@@ -1,5 +1,42 @@
 body {
+    text-align: center;
+    justify-content: center;
     display: flex;
     flex-direction: column;
     justify-content: center;
 }
+
+/* header */
+.header {
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    background-color: #1f293c;
+}
+
+.logo{
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    gap: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+/* hero */
+
+/* card-row */
+
+/* quote */
+
+/* cta */
+
+/* footer */
